@@ -11,20 +11,20 @@
                     for ( 'key' in 'objeto'){}
 
 - Notación de puntos vs notación de corchetes: Tenemos dos maneras de acceder o añadir una propiedad al objeto.
-                                            Las dos maneras siempre como primera medida llamamos al objeto.
-                                            Y después según que tipo de notación usemos elegimos la propiedad.
+                                               Las dos maneras siempre como primera medida llamamos al objeto.
+                                               Y después según que tipo de notación usemos elegimos la propiedad.
 
-                                                - Notación de puntos
+                                                    - Notación de puntos
 
-                                            objeto.nombreDeLaPropiedad, de esta manera se accede a la propiedad.
-                                            objeto.nombreDeLaPropiedad = contenidoDeLaPropiedad; De esta manera agregamos una propiedad
+                                               objeto.nombreDeLaPropiedad, de esta manera se accede a la propiedad.
+                                               objeto.nombreDeLaPropiedad = contenidoDeLaPropiedad; De esta manera agregamos una propiedad
 
-                                                - Notación de corchetes
+                                                    - Notación de corchetes
 
-                                            Este caso se suele utilizar más para eliminar una propiedad de nuestro objeto, pero nunca es recomendable.
+                                                Este caso se suele utilizar más para eliminar una propiedad de nuestro objeto, pero nunca es recomendable.
 
-                                            objeto['nombreDeLaPropiedad], Accedemos a la propiedad.
-                                            objeto['nombreDeLaPropiedad] = contenidoDeLaPropiedad, De esta manera agregamos una propiedad al objeto.
+                                                objeto['nombreDeLaPropiedad], Accedemos a la propiedad.
+                                                objeto['nombreDeLaPropiedad] = contenidoDeLaPropiedad, De esta manera agregamos una propiedad al objeto.
 
-                                            Cuando utilizamos [] el nombre de la propiedad debe ir entre comillas simples o dobles, ya que es un string.
-                                            Cuando utilizamos . no se utiliza comillas, únicamente el nombre.
+                                                Cuando utilizamos [] el nombre de la propiedad debe ir entre comillas simples o dobles, ya que es un string.
+                                             Cuando utilizamos . no se utiliza comillas, únicamente el nombre.
