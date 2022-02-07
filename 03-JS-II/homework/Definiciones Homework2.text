@@ -14,7 +14,7 @@ for (i = 0, condición , i++)
 
                     if ( condición1 && condición2)
                     {
-                        // Se ejecuta si la condición1 y condición2 se cumplen, ambas son true.
+                      // Se ejecuta si la condición1 y condición2 se cumplen, ambas son true.
                     }
 
                     Si solamente necesitamos que con algunas de las condiciones se cumplan
@@ -22,7 +22,7 @@ for (i = 0, condición , i++)
 
                     if ( condición1 || condición2)
                     {
-                        // Se ejecuta si la condición1 0 condición2 se cumple, si una es true.
+                      // Se ejecuta si la condición1 0 condición2 se cumple, si una es true.
                     }
 
                     El símbolo '!', se utiliza para representar lo opuesto.
