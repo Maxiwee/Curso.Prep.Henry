@@ -23,11 +23,11 @@ comillas simples('String') o dobles("String").
 
                 if (condición)
                 {
-                    // Si la condición es verdadero ejecuta el código de este bloque.
+                   // Si la condición es verdadero ejecuta el código de este bloque.
                 }
                 else
                 {
-                    // Si la condición es falsa ejecuta el código de este bloque.
+                   // Si la condición es falsa ejecuta el código de este bloque.
                 }
 
 - Valores booleanos: Los valores voléanos son aquellas variables que solo pueden ser verdaderas (true)
