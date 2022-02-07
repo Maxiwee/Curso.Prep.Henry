@@ -1,0 +1,36 @@
+- Variables: Las variables son un espacio o lugar donde se pueden guardar información o cosas que
+despues pueden ser usadas o no.
+
+- String: Los strings es el texto, las palabras, letras, caracteres y siempre se representan entre
+comillas simples('String') o dobles("String").
+
+- Funciones: Una función se utiliza para no ser repetitivos, es una forma de automatizar un proceso
+            y una vez creada debe ser únicamente invocada para que se ejecute llamándola por su nombre.
+            Las funciones están conformadas de la siguiente manera:
+            
+            function NombreDeLaFunción (Argumento1, Argumento2,...,ArgumentoN) {
+                // Codigo de bloque que se va automatizar.
+            }
+
+            Las funciones pueden tener varios argumentos o ningún argumento.
+            Los argumentos son utilizados dentro del código de bloques y al invocar la función,
+            asignamos el valor a cada argumento en su orden correspondiente.
+
+- Declaraciones: Las declaraciones son un bloque de decisión, donde se utiliza una condición
+                para determinar porque camino debe ir nuestro programa.
+                Si la condición es verdadera (true) el programa va a ir por un camino determinado,
+                y si es falsa(false) el programa va a ir por el otro camino.
+
+                if (condición)
+                {
+                    // Si la condición es verdadero ejecuta el código de este bloque.
+                }
+                else
+                {
+                    // Si la condición es falsa ejecuta el código de este bloque.
+                }
+
+- Valores booleanos: Los valores voléanos son aquellas variables que solo pueden ser verdaderas (true)
+                    o falsas (false). Únicamente pueden tener estos dos valores ( true o false).                 
+                    
+                                

@@ -1,0 +1,33 @@
+- for: El bloque for llamado bucle o loop se utiliza para ejecutar repetidas veces una misma acción o serie de pasos
+mientras se cumpla la condición que uno coloque.
+for (i = 0, condición , i++)
+{
+// Código que se va a repetir n veces mientras que la condición se cumpla.
+}
+
+- '&&', '||', '!' : Los símbolos '&&', '||' son operadores lógicos o conectores que se utilizan
+                    cuando dentro de un condicional o bucle necesitamos que se cumplan
+                    más de una condición se utilizan estos conectores lógicos.
+
+                    Si necesitamos que todas las condición se cumplan utilizamos
+                    el conector '&&', se lee 'y'.
+
+                    if ( condición1 && condición2)
+                    {
+                        // Se ejecuta si la condición1 y condición2 se cumplen, ambas son true.
+                    }
+
+                    Si solamente necesitamos que con algunas de las condiciones se cumplan
+                    usamos el conector '||', se lee 'o'.
+
+                    if ( condición1 || condición2)
+                    {
+                        // Se ejecuta si la condición1 0 condición2 se cumple, si una es true.
+                    }
+
+                    El símbolo '!', se utiliza para representar lo opuesto.
+
+                     - a = - 1 , !a = 1 Al utilizar el !, se invierte el valor a negativo.
+
+                     - Igual (===) , Desigual(!==).
+                

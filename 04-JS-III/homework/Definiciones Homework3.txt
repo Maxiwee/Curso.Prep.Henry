@@ -1,0 +1,38 @@
+- Arrays: Los arrays son variable donde se pueden guardar diferentes cosas, variables
+        en una posición especifica y luego podemos acceder a ellas a través de la posición
+        en la que se guardó. Las posiciones comienzan desde el 0 hasta N. N depende del largo del array.
+
+        Es como si tuviéramos varios cajones que cada uno tiene una etiqueta con un número desde
+        el 0 hasta 10, por ejemplo, donde en el cajón 0 guardamos un juguete, en el cajón 2 una llave y así sucesivamente. Ahora para acceder nuevamente al objeto vamos a ir primero al cajón
+        donde guardamos el objeto que queremos tomar y lo sacamos. Queremos las llaves entonces, vamos
+        al cajón 2 y tomamos las llaves.
+
+        Un array se define de la siguiente manera:
+
+            var nombreDelArray = [], un array vacío.
+
+        Para guardar algo dentro del array tenemos dos maneras:
+
+            - La forma general: La variable se va a guardar después de la última variable
+
+                nombreDelArray.push(VarialbeAGuardar);
+
+                var general = [2,3,4];
+
+                general.push(6); // [2,3,4,6]
+
+            - Por posición, en este caso el array tiene que tener definido un máximo de posiciones.
+
+                nombreDelArray[posicion] = VarialbeAGuardar;
+
+                var PorPosicion = [2,3,4,5,6,7];
+
+                PorPosicion[2] = 10; // [2,3,10,5,6,7] Se cambió el valor 4 por 10, las posiciones van de 0 hasta 5 en este caso.
+
+                y para acceder a un valor de nuestro array:
+
+                nombreDelArray[posicion];
+         
+         
+
+        

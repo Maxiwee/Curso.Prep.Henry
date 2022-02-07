@@ -1,0 +1,30 @@
+- Objetos: Los objetos se utiliza para guardar mucha información sobre una misma cosa.
+
+- Propiedades: Se define propiedades de un objeto a todos las variables, elementos que tienen un
+                nombre definido para acceder a cada cuando necesitemos hacerlo.
+
+- Métodos: Los métodos son las funciones (function nombreDelaFunción(){}, a toda función se le llama
+            también método.
+
+- Bucle 'for…in' : El bucle 'for...in' es para recorrer todas las propiedades que tenga un objeto.
+
+                    for ( 'key' in 'objeto'){}
+
+- Notación de puntos vs notación de corchetes: Tenemos dos maneras de acceder o añadir una propiedad al objeto.
+                                            Las dos maneras siempre como primera medida llamamos al objeto.
+                                            Y después según que tipo de notación usemos elegimos la propiedad.
+
+                                                - Notación de puntos
+
+                                            objeto.nombreDeLaPropiedad, de esta manera se accede a la propiedad.
+                                            objeto.nombreDeLaPropiedad = contenidoDeLaPropiedad; De esta manera agregamos una propiedad
+
+                                                - Notación de corchetes
+
+                                            Este caso se suele utilizar más para eliminar una propiedad de nuestro objeto, pero nunca es recomendable.
+
+                                            objeto['nombreDeLaPropiedad], Accedemos a la propiedad.
+                                            objeto['nombreDeLaPropiedad] = contenidoDeLaPropiedad, De esta manera agregamos una propiedad al objeto.
+
+                                            Cuando utilizamos [] el nombre de la propiedad debe ir entre comillas simples o dobles, ya que es un string.
+                                            Cuando utilizamos . no se utiliza comillas, únicamente el nombre.
