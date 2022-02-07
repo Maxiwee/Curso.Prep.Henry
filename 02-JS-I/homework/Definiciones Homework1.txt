@@ -16,7 +16,7 @@ comillas simples('String') o dobles("String").
             Los argumentos son utilizados dentro del código de bloques y al invocar la función,
             asignamos el valor a cada argumento en su orden correspondiente.
 
-- Declaraciones: Las declaraciones son un bloque de decisión, donde se utiliza una condición
+- Declaraciones:Las declaraciones son un bloque de decisión, donde se utiliza una condición
                 para determinar porque camino debe ir nuestro programa.
                 Si la condición es verdadera (true) el programa va a ir por un camino determinado,
                 y si es falsa(false) el programa va a ir por el otro camino.
