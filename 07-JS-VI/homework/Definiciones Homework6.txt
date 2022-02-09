@@ -1,0 +1,9 @@
+Funciones Callback : Las funciones Callback, son todas las funciones que se usan como 
+                     argumentos de otras funciones.
+                     Ej:  function a() { };
+                          
+                          function  b (a){ }; 
+                          
+                    Tenemos la función llamada 'a' (puede llamarse de cualquier forma) que
+                     es llamada Funcion CallBack por que la usamos dentro de la funcion llamada 'b'
+
