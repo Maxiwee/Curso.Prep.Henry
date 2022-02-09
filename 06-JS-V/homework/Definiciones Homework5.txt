@@ -1,0 +1,21 @@
+prototype: Todo objeto tiene un prototype o prototipo que cuando invocamos una propiedad 
+          de nuestro objetos que no la tiene en su estructura, la busca dentro del prototype y 
+          si la tiene la ejecuta, caso contrario tira un error.
+          Todo constructor de objetos que cremos podemos agregarle un prototype:}
+           NombreDelConstrutorDeObjetos.prototype.nombreDeLaPropiedad = function()
+           {
+               //bloque de condigo que ejecutara nuestra propiedad.
+           }
+
+ _Constructors_ (de Clases):  Toda clase (class) tiene un constructor que dentro de este,
+                             ponemos los argumentos y armamos el resto de código para crear 
+                            un objeto. Es otra forma de crear una clase de objetos como
+                            usamos el functon Objeto(argumetns){
+
+                            }
+
+                            Class Objeto{
+                                constructor(argumetns){
+                        
+                                }
+                            }
