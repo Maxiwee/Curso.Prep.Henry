@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(192, 47, 3);
+    }
+
+img{width: 400px;
+    align-content: center;
+   }
+
+#thirDiv{ height: 600px;
+          width: 500px; 
+          background-color: rgb(255, 238, 0);
+          padding: 50px;
+          border: 5px solid black;
+           
+        }
+#spanid { font-size: 18px;
+          margin: 50px; 
+          align-content: center;
+        }           
+body{background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/rN0W64K4ipau8gxv/videoblocks-geometrical-abstraction-colorful-abstract-geometric-background_rag4gwpqcx_thumbnail-1080_01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+.divClass {display: flex;
+           flex-direction: column;
+           align-items: center;
+          }     
